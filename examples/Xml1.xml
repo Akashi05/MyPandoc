@@ -1,0 +1,9 @@
+<document>
+  <header title="Basic contents" author="Fornes Leo" date="2024-01-01"></header>
+  <body>
+    <paragraph>This is a very simple basic markdown file.</paragraph>
+    <paragraph><italic>Italic words</italic></paragraph>
+    <paragraph><bold>Bolds words</bold></paragraph>
+    <paragraph><code>Code words</code></paragraph>
+  </body>
+</document>

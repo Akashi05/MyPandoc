@@ -1,0 +1,14 @@
+{
+    "body": [
+      ["This is a very simple basic markdown file."],
+      [{ "italic": "Italic words" }],
+      [{ "bold": "Bolds words" }],
+      [{ "code": "Code words" }]
+    ],
+    "header": {
+      "title": "Basic contents",
+      "author": "Fornes Leo",
+      "date": "2024-01-01"
+    }
+  }
+  
